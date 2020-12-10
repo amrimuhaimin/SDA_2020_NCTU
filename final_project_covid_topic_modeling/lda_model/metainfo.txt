@@ -1,0 +1,14 @@
+Name of Quantlet: lda_model
+
+Published in:  SDA_2020_NCTU
+
+Description: Create and visualize LDA model from abstract that crawled by sciencedirect.
+
+Keywords:
+- web crawling
+- abstract
+- covid19
+- latent dirichlet allocation
+- topic modeling
+
+Author: Muhaimin, Rasyid 07/12/2020
